@@ -1,0 +1,3 @@
+@echo off
+echo Chay Server Tai Xiu...
+node server start
